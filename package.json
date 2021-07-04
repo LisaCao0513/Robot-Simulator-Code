@@ -5,7 +5,7 @@
   "main": "start.js",
   "scripts": {
     "test": "jest",
-    "start": "tsc && node dist/start.js"
+    "start": "tsc && node dist/src/start.js"
   },
   "author": "Lisa Cao",
   "license": "ISC",
