@@ -34,7 +34,8 @@ Task : https://github.com/wearefirelabs/robot-simulator
 
 ## Run scripts
 ```
-$ cd robot-simulator-code
+$ git clone https://github.com/LisaCao0513/Robot-Simulator-Code.git
+$ cd Robot-Simulator-Code
 
 $ npm install
 
